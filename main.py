@@ -409,5 +409,5 @@ while True:
         plt.savefig('vaccinations/vaccines.png', bbox_inches='tight')
 
     if any([ncd, scd, nvc, svc, man]) is True:
-        #push_git() 
+        push_git() 
         timeout(3600)
