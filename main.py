@@ -410,4 +410,4 @@ while True:
 
     if any([ncd, scd, nvc, svc, man]) is True:
         push_git() 
-        timeout(3600)
+        exit(0) # or timeout(3600) if running from a server.
