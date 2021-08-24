@@ -257,7 +257,7 @@ while True:
     ncd, scd, nvc, svc, man = fetch_all(urls)
 
     if any([ncd, scd, nvc, svc, man]) is False:
-        timeout(3600)
+        exit(0) # or timeout(3600) if running from a server.
     
     if ncd is not False:
         df = pd.read_csv(io.StringIO(ncd.decode('utf-8')))
