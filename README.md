@@ -1,10 +1,10 @@
-###### Updated August 30, 2021, 10:17 P.M EST
+###### Updated August 31, 2021, 9:58 A.M EST
 # US COVID-19 Data 
 ###### [ [U.S. Data](us.csv) ([Raw CSV](https://raw.githubusercontent.com/drebrb/covid-19-data/master/us.csv)) | [U.S. State-Level Data](states) ]
 | U.S    | Total Reported   | On August 30   | 7-Day Average   |
 |:-------|:-----------------|:---------------|:----------------|
-| Cases  | 39,140,644       | 264,668        | 156,698         |
-| Deaths | 639,045          | 1,689          | 1,343           |
+| Cases  | 39,156,379       | 280,403        | 158,946         |
+| Deaths | 639,081          | 1,725          | 1,348           |
 ###### [ [U.S. Plot](us.png) ]
 ![Plot](https://github.com/drebrb/covid-19-data/blob/master/us.png)
 # US COVID-19 Vaccinations
