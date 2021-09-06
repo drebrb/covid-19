@@ -1,10 +1,10 @@
-###### Updated September 05, 2021, 10:38 A.M EST
+###### Updated September 05, 2021, 11:36 P.M EST
 # US COVID-19 Data 
 ###### [ [U.S. Data](us.csv) ([Raw CSV](https://raw.githubusercontent.com/drebrb/covid-19-data/master/us.csv)) | [U.S. State-Level Data](states) ]
-| U.S    | Total Reported   | On September 04   | 7-Day Average   |
+| U.S    | Total Reported   | On September 05   | 7-Day Average   |
 |:-------|:-----------------|:------------------|:----------------|
-| Cases  | 39,960,123       | 65,893            | 160,900         |
-| Deaths | 647,887          | 526               | 1,544           |
+| Cases  | 40,004,444       | 44,321            | 161,209         |
+| Deaths | 648,264          | 377               | 1,558           |
 ###### [ [U.S. Plot](us.png) ]
 ![Plot](https://github.com/drebrb/covid-19-data/blob/master/us.png)
 # US COVID-19 Vaccinations
