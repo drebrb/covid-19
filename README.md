@@ -1,4 +1,4 @@
-###### Updated September 06, 2021, 10:11 A.M EST
+###### Updated September 06, 2021, 8:24 P.M EST
 # US COVID-19 Data 
 ###### [ [U.S. Data](us.csv) ([Raw CSV](https://raw.githubusercontent.com/drebrb/covid-19-data/master/us.csv)) | [U.S. State-Level Data](states) ]
 | U.S    | Total Reported   | On September 05   | 7-Day Average   |
